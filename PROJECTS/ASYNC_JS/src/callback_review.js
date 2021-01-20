@@ -28,6 +28,3 @@ function printDate(dateNow) {
 // TESTS
 console.log(calc(8, 4, sum));
 myDate(printDate);
-
-
-
